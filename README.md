@@ -1,6 +1,6 @@
 # Plantly
 
-This is an application that reminds one to take care of their plants. It's one of the apps that I would be building for my five native apps challenge using React Native.
+This is an application that reminds one to take care of their plants. It's one of the apps that I would be building for my five native apps challenge using React Native. I'll be getting back to this shortly.
 
 ## Core Features of the Application
 
